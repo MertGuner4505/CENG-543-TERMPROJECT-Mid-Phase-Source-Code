@@ -23,3 +23,9 @@ notebooks**, not in `project_core.py`.
    ```python
    from google.colab import drive
    drive.mount('/content/drive')
+
+
+3. Ensure project_core.py is accessible (e.g., located in the same Drive
+directory as the notebook).
+
+4. Run the remaining cells sequentially.
