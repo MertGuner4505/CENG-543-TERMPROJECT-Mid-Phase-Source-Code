@@ -11,7 +11,9 @@ Generative AI Disclosure
 Generative AI tools were used in a limited, assistive capacity during the preparation of this repository, primarily for documentation formatting, organizational guidance, and code refactoring suggestions. All experimental design decisions, implementations, evaluations, and interpretations of results were conducted and validated by the author. Minor numerical variations may occur across runs due to the use of cloud-based execution environments; reported results reflect the configurations described in the accompanying paper.
 
 
-## Running the Experiments (Colab) 1. Open either experiment notebook: - MiniBERT_Experiment.ipynb - TinyBERT_Experiment.ipynb 2. Run the first cell to mount Google Drive:
+## Running the Experiments (Colab) 
+1. Open either experiment notebook: - MiniBERT_Experiment.ipynb - TinyBERT_Experiment.ipynb
+2. 2. Run the first cell to mount Google Drive:
 python
    from google.colab import drive
    drive.mount('/content/drive')
