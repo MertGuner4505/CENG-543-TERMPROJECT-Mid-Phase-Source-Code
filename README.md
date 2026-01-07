@@ -13,7 +13,7 @@ Generative AI tools were used in a limited, assistive capacity during the prepar
 
 ## Running the Experiments (Colab) 
 1. Open either experiment notebook: - MiniBERT_Experiment.ipynb - TinyBERT_Experiment.ipynb
-2. 2. Run the first cell to mount Google Drive:
+2. Run the first cell to mount Google Drive:
 python
    from google.colab import drive
    drive.mount('/content/drive')
